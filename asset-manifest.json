@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Agro/static/css/main.65cd5c82.css",
+    "main.js": "/Agro/static/js/main.52b26b24.js",
+    "index.html": "/Agro/index.html",
+    "main.65cd5c82.css.map": "/Agro/static/css/main.65cd5c82.css.map",
+    "main.52b26b24.js.map": "/Agro/static/js/main.52b26b24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cd5c82.css",
+    "static/js/main.52b26b24.js"
+  ]
+}
